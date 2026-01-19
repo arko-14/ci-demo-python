@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ci-demo-python"
+version = "0.1.0"
+description = "Demo repo for CI/CD using GitHub Actions"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Sandipan Paul" }]
+dependencies = []
